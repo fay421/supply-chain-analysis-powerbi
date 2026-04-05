@@ -55,7 +55,7 @@ Optimize Standard Class logistics and address regional inefficiencies to improve
 ## 📸 Dashboard Preview
 
 ### Profit Analysis
-![Dashboard](images/profit.JPG)
+![Dashboard](profit.JPG)
 
 ### Delivery Analysis
-![Delivery](images/delivery.JPG)
+![Delivery](delivery.JPG)
